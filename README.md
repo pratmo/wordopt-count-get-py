@@ -1,5 +1,5 @@
 ## wordopt-count-get-py
-In this code, I get the .txt file base.txt and,
+In this code, I get the .txt file base.txt (590 lines of data) and,
 1. Find the most occuring word in three different coding styles including the most optimized way i.e. using only 2 lines of code with get() method in dictionary.
 2. The frequency of occurance of that particular word.
 
